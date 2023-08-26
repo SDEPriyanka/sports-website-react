@@ -1,0 +1,12 @@
+{
+    "latestnesPosts": [
+      { "id": 1, 
+        "title": "PUTdsfsdgdfgdfhfdhsdfhf",
+        "author": "typicode" 
+      },
+      { "id": 2, 
+        "title": "json-server",
+        "author": "typicode" 
+      }
+    ]
+}

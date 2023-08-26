@@ -1,0 +1,122 @@
+.login
+{
+    height: 30rem;
+}
+body {
+   
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    
+  }
+  
+  .contact-form-wrapper {
+    padding: 7px 0;
+    margin:32px;
+   
+  }
+  
+  .contact-form {
+    padding: 30px 40px;
+    border-radius: 12px;
+    
+  
+  }
+  .contact-form .form-input {
+    background-color: #f0f4f5;
+    height: 50px;
+    padding-left: 16px;
+  }
+  
+  .contact-form .form-control::placeholder {
+    color: #aeafb0;
+    font-weight: 500;
+   
+  }
+  
+  .contact-form .form-control:-ms-input-placeholder {
+    color: #aeb4b9;
+    font-weight: 500;
+  }
+  
+  .contact-form .form-control::-ms-input-placeholder {
+    color: #aeb4b9;
+    font-weight: 500;
+  }
+  
+  .contact-form .title {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+  }
+  
+  .contact-form .description {
+    color: #aeb4b9;
+    font-size: 14px;
+    text-align: center;
+  }
+  
+  .contact-form .submit-button-wrapper {
+    text-align: center;
+  }
+  .contact-form .submit-button-wrapper input {
+    border: none;
+    border-radius: 4px;
+    background-color: #f23292;
+    color: white;
+    text-transform: uppercase;
+    padding: 10px 60px;
+    font-weight: 500;
+    letter-spacing: 2px;
+  }
+  
+  .contact-form .submit-button-wrapper input:hover {
+    background-color: #d30069;
+  }
+ 
+
+  .contact-form-heading h6{
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 35px;
+   
+
+  }
+  .contact-info{
+    padding: 30px 0px 30px 0px;
+    max-width: 900px;
+  }
+   
+  .news-img img{
+    height: auto;
+    width: 100%;
+  }
+  .tennis-img img{
+    height: auto;
+    width: 100%;
+
+  }
+  .basketball-img img{
+    height: auto;
+    width: 100%;
+  }
+  .home-img img{
+    height: auto;
+    width: 100%;
+  }
+  .football-img img{
+    height: auto;
+    width: 100%;
+  }
+  .news-desc p{
+    font-size: 8px;
+  }
+  .ln-heading h2{
+    font-size: 14px;
+    text-align: center;
+  }
+  .snews-desc p{
+    font-size: 16px;
+    padding-top:8px ;
+  }
+   .snews-desc h4{
+    font-size: 28px;
+  }
